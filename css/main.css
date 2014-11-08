@@ -1,5 +1,5 @@
 body {
-	background: #FFEFFF;
+	background: #FFEFFF !important;
 	padding:30px;
 }
 
@@ -8,4 +8,17 @@ body {
 	margin-top: 20px;
 	border-radius:6px;
 	box-shadow: 5px 5px 5px #888;
+}
+
+h1 {
+	color:indigo !important;
+	font-size:250% !important;
+}
+.mainPageText {
+	text-align: center;
+	color:violet;
+	font-size:140%;
+}
+g {
+	color:green;
 }
