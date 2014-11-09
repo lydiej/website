@@ -22,3 +22,7 @@ h1 {
 g {
 	color:green;
 }
+
+.dropdown-menu-main li a {
+	color: pink !important;
+}
